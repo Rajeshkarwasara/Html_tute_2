@@ -1,0 +1,590 @@
+body {
+  background: #f0f1f3;
+}
+
+header {
+  height: 55%;
+  background: white;
+}
+
+.nav a {
+  color: black;
+
+}
+
+.nav {
+  padding-top: 24px;
+  background: white;
+}
+
+.btn {
+  margin-top: 5%;
+  margin-left: 7%;
+}
+
+section {
+  margin-top: 3%;
+}
+
+.books {
+  border: 2px solid #f1f2f4;
+  height: 46px;
+  width: 9%;
+  border-radius: 7px;
+  position: relative;
+  left: 33px;
+}
+
+.box1 {
+  border: 2px solid #dbdb4d;
+  border-radius: 14px;
+  border-bottom: 12px solid #fab005;
+  width: 20%;
+  background: white;
+  cursor: pointer;
+}
+
+.frist {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.header {
+  text-align: center;
+  height: 100px;
+  font-size: 40px;
+  margin-top: 50px;
+}
+
+section ul {
+  margin-left: -34px;
+  margin-bottom: -38px;
+}
+
+.footer {
+  background: #ffd43b;
+  padding: 1px;
+  height: 48%;
+}
+
+.box2 {
+  border: 2px solid #146ebe;
+  border-radius: 14px;
+  border-bottom: 10px solid #146ebe;
+  width: 20%;
+  background: white;
+  cursor: pointer;
+}
+
+.header2 {
+  height: 100px;
+  font-size: 40px;
+  text-align: center;
+  margin-top: 16%;
+}
+
+.footer2 {
+  height: 48%;
+  background: #74c0fc;
+  padding: 1px;
+}
+
+p {
+  margin: 0px;
+}
+
+.box3 {
+  border-radius: 14px;
+  width: 25%;
+  border: 2px solid #0ca678;
+  border-bottom: 11px solid green;
+  width: 20%;
+  background: white;
+  cursor: pointer;
+}
+
+.heaser3 {
+  height: 100px;
+  font-size: 40px;
+  text-align: center;
+  margin-top: 51px;
+}
+
+.footer3 {
+  background: #63e6be;
+  padding: 1px;
+  height: 47%;
+}
+
+.box4 {
+  border: 2px solid #9c36b5;
+  border-radius: 14px;
+  border-bottom: 11px solid #9c36b5;
+  width: 20%;
+  background: white;
+  cursor: pointer;
+}
+
+.header4 {
+  font-size: 40px;
+  text-align: center;
+  height: 100px;
+  margin-top: 56px;
+}
+
+.footer4 {
+  background: #e599f7;
+  padding: 1px;
+  height: 45%;
+}
+
+.secand {
+  display: flex;
+  margin-top: 2rem;
+  justify-content: space-evenly;
+}
+
+.box5 {
+  border: 2px solid #6741d9;
+  border-radius: 14px;
+  border-bottom: 8px solid #6741d9;
+  width: 44%;
+  background: white;
+  cursor: pointer;
+}
+
+.header5 {
+  height: 100px;
+  text-align: center;
+  font-size: 40px;
+  margin-top: 50px;
+}
+
+.footer5 {
+  background: #b197fc;
+  height: 100px;
+  padding: 1px;
+  height: 39%;
+}
+
+.box6 {
+  border: 2px solid #e03131;
+  border-bottom: 8px solid #e03131;
+  border-radius: 14px;
+  width: 44%;
+  background: white;
+  cursor: pointer;
+}
+
+
+.header6 {
+  height: 100px;
+  font-size: 40px;
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.footer6 {
+  background: #ff8787;
+  padding: 1px;
+  height: 40%;
+}
+
+p {
+  margin: 1px;
+}
+
+h2 {
+  margin-left: 4rem;
+  margin-top: 2rem;
+}
+
+.secandpage {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.secandpage li {
+  list-style: none;
+}
+
+.pregraph p {
+  line-height: 30px;
+margin-top: -21px;
+}
+
+.header7 {
+  display: ruby;
+  background: white;
+  border-radius: 10px;
+  width: 28%;
+  padding: 8px;
+  height: 41px;
+  cursor: pointer;
+}
+
+.fa-brands.fa-vuejs {
+  font-size: 29px;
+}
+
+.books ul {
+  margin-left: -34px;
+  margin-bottom: 0px;
+  list-style: none;
+  display: flex;
+}
+
+.header8 {
+  display: ruby;
+  background: white;
+  border-radius: 10px;
+  width: 28%;
+  padding: 8px;
+  cursor: pointer;
+}
+
+.fa-brands.fa-react {
+  font-size: 29px;
+}
+
+.header9 {
+  display: ruby;
+  background: white;
+  border-radius: 10px;
+  width: 28%;
+  padding: 8px;
+  cursor: pointer;
+}
+
+.three {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 25px;
+}
+
+.three li {
+  list-style: none;
+}
+
+
+
+.header10 {
+  display: ruby;
+  background: white;
+  border-radius: 10px;
+  width: 28%;
+  padding: 8px;
+  height: 41px;
+  cursor: pointer;
+}
+
+.fa-brands.fa-angular {
+  font-size: 29px;
+}
+
+.header11 {
+  display: ruby;
+  background: white;
+  border-radius: 10px;
+  width: 28%;
+  padding: 8px;
+  cursor: pointer;
+}
+
+.fa-brands.fa-python {
+  font-size: 29px;
+}
+
+.header12 {
+  display: ruby;
+  background: white;
+  border-radius: 10px;
+  width: 28%;
+  padding: 8px;
+  cursor: pointer;
+}
+
+.fa-brands.fa-sass {
+  font-size: 29px;
+}
+
+.for {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 25px;
+}
+
+.for li {
+  list-style: none;
+}
+
+ul {
+  margin-left: -34px;
+  margin-bottom: -40px;
+}
+
+.header13 {
+  display: ruby;
+  background: white;
+  border-radius: 10px;
+  width: 28%;
+  padding: 8px;
+  height: 41px;
+  cursor: pointer;
+}
+
+.fa-brands.fa-less {
+  font-size: 29px;
+}
+
+.header14 {
+  display: ruby;
+  background: white;
+  border-radius: 10px;
+  width: 28%;
+  padding: 8px;
+  cursor: pointer;
+}
+
+.fa-brands.fa-wordpress {
+  font-size: 29px;
+}
+
+.header15 {
+  width: 28%;
+}
+
+.header16 {
+  width: 93%;
+  background: #74c0fc;
+  margin-top: 6rem;
+  padding: 15px;
+  margin-left: 46px;
+  border-radius: 21px;
+  border-bottom: 8px solid #146ebe;
+  display: flex;
+  cursor: pointer;
+}
+
+.imgs {
+  width: 13%;
+}
+
+.pgs {
+  width: 39%;
+  margin-top: -12px;
+}
+
+.imgs img {
+  margin-top: -33%;
+  margin-bottom: -15px;
+  margin-left: -15px;
+}
+
+footer {
+  background: #183153;
+}
+
+.footer1 {
+  display: flex;
+  width: 100%;
+  margin-top: 35px;
+}
+
+.footer1 a {
+  text-decoration: none;
+  color: white;
+}
+
+.a1 {
+  color: white;
+  width: 40%;
+  margin-top: 20px;
+}
+
+.a1 a {
+  color: white;
+  text-decoration: none;
+}
+
+.fa-solid.fa-flag {
+  margin-left: 45px;
+  margin-top: 20px;
+  font-size: 30px;
+}
+
+.footer1 h4 {
+  margin-left: 38px;
+}
+
+.footer1 p {
+  margin-left: 35px;
+}
+
+.a2 {
+  color: white;
+  width: 15%;
+  margin-top: 30px;
+  margin-left: 14%;
+}
+
+.a2 li {
+  list-style: none;
+}
+
+.a3 {
+  color: white;
+  width: 15%;
+  margin-top: 30px;
+}
+
+.a3 li {
+  list-style: none;
+}
+
+.a4 {
+  color: white;
+  margin-top: 30px;
+}
+
+.a4 li {
+  list-style: none;
+}
+
+.a5 li {
+  list-style: none;
+  color: white;
+  display: inline-flex;
+}
+
+.a5 {
+  text-align: right;
+  margin-top: 50px;
+}
+
+.a5 li {
+  padding: 10px;
+}
+
+
+body {
+  font-family: cera-round-pro, "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.icns {
+  padding-top: 30px;
+}
+
+.fa-regular.fa-font-awesome {
+  font-size: 24px;
+  padding-left: 10%;
+}
+
+a {
+  text-decoration: none;
+  padding-left: 1px;
+  font-size: 17px;
+
+}
+
+.icn {
+  width: 20%;
+  float: left;
+}
+
+.menu {
+  width: 60%;
+  float: left;
+
+}
+
+
+.nav li {
+  list-style: none;
+  display: inline-block;
+  padding: 14px;
+  margin-top: -19px;
+}
+
+
+body {
+  padding: 0px;
+  margin: 0px;
+  margin-top: 0px;
+  margin-top: -15px;
+}
+
+.fa-solid.fa-arrow-right-from-bracket {
+  position: absolute;
+  right: 13%;
+  top: 31px;
+  font-size: 19px;
+}
+
+select {
+  background: none;
+  border: none;
+
+
+}
+
+select {
+  position: absolute;
+  right: 2px;
+  width: 50%;
+}
+
+input {
+  width: 135%;
+  margin-left: -60px;
+  border-radius: 55%;
+  padding: 10px 10px 10px 51px;
+  border-radius: 43px;
+  border: black solid;
+}
+
+
+.sarch {
+  width: 10%;
+  float: right;
+  position: absolute;
+  right: 12%;
+  top: 1;
+  top: 115px;
+}
+
+.fa-sharp.fa-solid.fa-magnifying-glass {
+  position: absolute;
+  left: -39px;
+  margin-top: 13px;
+}
+
+.a222 {
+  width: 11%;
+  padding-left: 9%;
+}
+
+.a222 ul {
+  list-style: none;
+}
+
+.a333 {
+  display: flex;
+}
+
+.pregraph {
+  width: 59%;
+  margin-left: 9%;
+  font-size: x-large;
+}
+
+.a222 a {
+  color: black;
+}
+
+.footer1 a:hover {
+  color: blue;
+}
